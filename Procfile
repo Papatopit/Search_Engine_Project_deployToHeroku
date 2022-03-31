@@ -1,1 +1,1 @@
-web: java -jar C:\Users\Павел\Desktop\Search_Engine_Project\target\Search_Engine_Project-1.0-SNAPSHOT.jar
+web: java -jar target/Search_Engine_Project-1.0-SNAPSHOT.jar

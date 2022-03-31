@@ -42,7 +42,6 @@
                 <configuration>
                     <mainClass>org.example.AppRunner</mainClass>
                 </configuration>
-
                 <executions>
                     <execution>
                         <goals>

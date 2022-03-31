@@ -1,0 +1,1 @@
+web: java -jar Search_Engine_Project-1.0-SNAPSHOT.jar
